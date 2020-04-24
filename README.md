@@ -1,6 +1,6 @@
-# Zookeeper cluster in containers using docker image 
+# Zookeeper cluster running in Docker containers
 
-# Zookeeper Ubuntu image
+## Zookeeper Ubuntu image
 This is a Zookeeper 3.4.14 image which uses Ubuntu as base image.\
 This image is embedded with Java version 'openjdk-11' which is being used to run Zookeeper process.
 

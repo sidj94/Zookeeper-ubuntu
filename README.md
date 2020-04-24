@@ -61,7 +61,7 @@ services:
 
 ## Setting up a 3 node Zookeeper cluster using docker-compose 
 ### Step 1 :
-Make a directory and create docker-compose.yaml file
+Make a directory and create ```docker-compose.yaml``` file
 ### Step 2 :
 Run docker-compose command so as to start 3 Zookeeper containers\
 ```$ docker-compose up```

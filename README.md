@@ -1,2 +1,2 @@
-# Zookeeper cluster in containers using docker image #
+# Zookeeper cluster in containers using docker image 
 
